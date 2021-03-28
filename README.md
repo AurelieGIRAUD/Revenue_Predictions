@@ -12,7 +12,7 @@ This repository get through the key learnings related to the Project no.7.
 🎯 Goal: Create a model to predict the future revenue of children based on their location, the revenue of their parents and the gini index; in order to target future customers.
 
 
-  1) Data Collection
+  1) Collection & Exploration
 
 Collect, Summarize and Discuss the relevance of the Data Collected for the Modeling.
 Here is what we need to perform the modeling:
