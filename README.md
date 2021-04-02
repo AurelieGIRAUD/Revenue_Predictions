@@ -30,3 +30,5 @@ Using the income generational mobility coefficient and the percentiles for each 
 Using the conditional proabilities, recreate a dataset representative of the incomes distribution per country. 
 
 5) ANOVA and Linear Regression Model
+
+In this part we are trying to model and predict the income based on different combination of independent variables and using successively ANOVA-one way and Multiple Linear Regressions.
